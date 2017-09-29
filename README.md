@@ -232,7 +232,7 @@ Then navigate your browser to http://localhost:4200
     
 #### webpack
     
-    > cd demo/webpack && npm run install
+    > cd demo/webpack && npm install
     > npm run build
     > npm start
 
